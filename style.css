@@ -1,0 +1,29 @@
+.carousel-inner img 
+{
+    width: 250px !important;
+}
+.imag img{
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid red;
+    margin: 10px;
+  
+
+}
+/* .ro{
+    display: flex;
+} */
+.text-btn
+{
+    border: 2px solid red;
+    /* width: 100%; */
+}
+.text-btn button{
+    width: 100%;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 50px;
+}
+.col-lg-4{
+    padding: 50px;
+}
